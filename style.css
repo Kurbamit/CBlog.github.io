@@ -1,10 +1,42 @@
-.title {
-	color:darkblue;
+.name 
+{
+    font-family: 'Open Sans';
+    font-size: 24px;
+    color: #2660a4;
+    text-align: center;
+    font-weight: bold;
+}
+.occupation 
+{
+    color: black;
+    font-family: 'Open Sans';
+    font-size: 12px;
+    text-align: center;
 }
 
-div {
-  width: 320px;
-  padding: 10px;
-  border: 5px solid gray;
-  margin: 0; 
+.resume h2.experience-title 
+{
+    color: #2660a4;
+    text-align: left;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.resume 
+{
+    color: black;
+    font-family: 'Open Sans';
+    font-size: 16px;
+}
+
+.resume .bold-title 
+{
+    font-weight: bold;
+}
+
+.about .box 
+{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
 }
