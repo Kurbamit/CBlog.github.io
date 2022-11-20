@@ -1,42 +1,31 @@
-.name 
-{
+* {
     font-family: 'Open Sans';
+}
+
+.name {
     font-size: 24px;
     color: #2660a4;
     text-align: center;
     font-weight: bold;
 }
-.occupation 
-{
+
+.occupation {
     color: black;
-    font-family: 'Open Sans';
     font-size: 12px;
     text-align: center;
 }
 
-.resume h2.experience-title 
-{
+.resume h2.title {
     color: #2660a4;
     text-align: left;
     font-size: 16px;
     text-transform: uppercase;
 }
 
-.resume 
-{
-    color: black;
-    font-family: 'Open Sans';
-    font-size: 16px;
+.resume p {
+    text-indent: 40px;
 }
 
-.resume .bold-title 
-{
+.resume .bold-title {
     font-weight: bold;
-}
-
-.about .box 
-{
-    display: flex;
-    flex-direction: row;
-    margin: 20px 0;
 }
