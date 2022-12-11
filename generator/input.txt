@@ -1,0 +1,7 @@
+#title NAME SURNAME
+
+#subtitle Occupation
+#subtitle Phone Number | E-mail | Address
+
+#section ABOUT ME
+Tell something about yourself. Include career goals and personality traits suitable for obtaining the desired position.
