@@ -10,7 +10,7 @@ To convert a file to html, run the program compiled from generator.c in the comm
 
 `generator input.txt output.html`
 
-Currently, generated html files have a hardcoded requirement for a CSS file named style.css in the same directory.
+Currently, generated html files have a hardcoded requirement for a CSS file named style.css in the same directory and all sites running those html files are named "TESTOR".
 
 -------
 
