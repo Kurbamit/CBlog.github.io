@@ -17,7 +17,7 @@ All tags follow the format of a # (hashtag) symbol followed **only** by plaintex
 Currently supported tags:
 
 | Tag       | Equivalent to |
-|---------------------------|
+|-----------|---------------|
 | #title    | `<h1>`        |
 | #subtitle | `<h2>`        |
 | #section  | `<h3>`        |
