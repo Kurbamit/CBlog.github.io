@@ -18,6 +18,6 @@ Currently supported tags:
 
 | Tag       | Equivalent to |
 |---------------------------|
-| #title    | <h1>          |
-| #subtitle | <h2>          |
-| #section  | <h3>          |
+| #title    | `<h1>`        |
+| #subtitle | `<h2>`        |
+| #section  | `<h3>`        |
